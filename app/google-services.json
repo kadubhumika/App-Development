@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639412501158",
+    "project_id": "login-register-firebase-41a38",
+    "storage_bucket": "login-register-firebase-41a38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639412501158:android:ef6c9b7e7e7ff623969267",
+        "android_client_info": {
+          "package_name": "com.example.eco_campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUDKGHeyTh5DbgScvzKB3iaxpUer7iyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639412501158:android:ac10f3a7a6c1d806969267",
+        "android_client_info": {
+          "package_name": "com.example.firelock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUDKGHeyTh5DbgScvzKB3iaxpUer7iyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
